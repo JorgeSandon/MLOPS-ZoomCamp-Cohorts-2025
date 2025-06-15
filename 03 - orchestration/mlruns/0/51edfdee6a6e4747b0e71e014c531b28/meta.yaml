@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/03 - orchestration/mlruns/0/51edfdee6a6e4747b0e71e014c531b28/artifacts
+deleted_time: 1749960969853
+end_time: 1749960596550
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 51edfdee6a6e4747b0e71e014c531b28
+run_name: smiling-moth-572
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749960582198
+status: 3
+tags: []
+user_id: procesos

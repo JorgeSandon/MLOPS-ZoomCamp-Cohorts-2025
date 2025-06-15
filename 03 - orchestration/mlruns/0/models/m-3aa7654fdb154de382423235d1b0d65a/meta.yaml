@@ -1,0 +1,11 @@
+artifact_location: file:C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/03 -
+  orchestration/mlruns/0/models/m-3aa7654fdb154de382423235d1b0d65a/artifacts
+creation_timestamp: 1749959889065
+experiment_id: '0'
+last_updated_timestamp: 1749959904552
+model_id: m-3aa7654fdb154de382423235d1b0d65a
+model_type: null
+name: model
+source_run_id: 9334f81d4b784028804db145fa96847b
+status: 2
+status_message: null

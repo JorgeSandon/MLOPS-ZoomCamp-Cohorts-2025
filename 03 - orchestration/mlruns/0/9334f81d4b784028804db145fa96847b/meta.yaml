@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/03 - orchestration/mlruns/0/9334f81d4b784028804db145fa96847b/artifacts
+deleted_time: 1749960969853
+end_time: 1749959904575
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 9334f81d4b784028804db145fa96847b
+run_name: loud-moth-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749959888896
+status: 3
+tags: []
+user_id: procesos

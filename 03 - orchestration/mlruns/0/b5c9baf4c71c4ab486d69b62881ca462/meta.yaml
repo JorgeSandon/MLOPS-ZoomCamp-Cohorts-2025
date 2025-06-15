@@ -1,0 +1,14 @@
+artifact_uri: file:C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/03 - orchestration/mlruns/0/b5c9baf4c71c4ab486d69b62881ca462/artifacts
+end_time: 1749961938393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5c9baf4c71c4ab486d69b62881ca462
+run_name: mercurial-doe-586
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749961920410
+status: 3
+tags: []
+user_id: procesos

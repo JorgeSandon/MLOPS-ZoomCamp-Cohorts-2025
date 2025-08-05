@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/models/m-2f5b9653d90e46bfbd49b975aeafeacc/artifacts
+creation_timestamp: 1754361222953
+experiment_id: '780299504262135347'
+last_updated_timestamp: 1754361230901
+model_id: m-2f5b9653d90e46bfbd49b975aeafeacc
+model_type: null
+name: RandomForest
+source_run_id: 7a1b94d903674faa9408e85ecd0678f8
+status: 2
+status_message: null

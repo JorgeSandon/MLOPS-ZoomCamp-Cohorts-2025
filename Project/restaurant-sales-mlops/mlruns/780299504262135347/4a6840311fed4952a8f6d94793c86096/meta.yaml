@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/4a6840311fed4952a8f6d94793c86096/artifacts
+end_time: 1754360705075
+entry_point_name: ''
+experiment_id: '780299504262135347'
+lifecycle_stage: active
+run_id: 4a6840311fed4952a8f6d94793c86096
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754360689211
+status: 3
+tags: []
+user_id: procesos

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/models/m-fee4aafca45248d7ad0496b958568ed9/artifacts
+creation_timestamp: 1754359475619
+experiment_id: '780299504262135347'
+last_updated_timestamp: 1754359486523
+model_id: m-fee4aafca45248d7ad0496b958568ed9
+model_type: null
+name: LinearRegression
+source_run_id: 06cbcd77ce6a4da6a4ff765a96710f9f
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/c6cbf2ac71144494aea537cf62105c04/artifacts
+end_time: 1754360721120
+entry_point_name: ''
+experiment_id: '780299504262135347'
+lifecycle_stage: active
+run_id: c6cbf2ac71144494aea537cf62105c04
+run_name: Lasso
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754360713096
+status: 3
+tags: []
+user_id: procesos

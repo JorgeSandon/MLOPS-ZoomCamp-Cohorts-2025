@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/models/m-77cbdcb16a474934be994eba457863a2/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.3
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.1
+mlflow_version: 3.1.0
+model_id: m-77cbdcb16a474934be994eba457863a2
+model_size_bytes: 561
+model_uuid: m-77cbdcb16a474934be994eba457863a2
+prompts: null
+run_id: 9f96ce4760da4e09bf08e089ebb6eaa6
+utc_time_created: '2025-08-05 02:03:00.809321'

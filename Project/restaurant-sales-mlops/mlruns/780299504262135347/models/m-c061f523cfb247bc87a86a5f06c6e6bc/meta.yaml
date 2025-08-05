@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/models/m-c061f523cfb247bc87a86a5f06c6e6bc/artifacts
+creation_timestamp: 1754360705313
+experiment_id: '780299504262135347'
+last_updated_timestamp: 1754360713070
+model_id: m-c061f523cfb247bc87a86a5f06c6e6bc
+model_type: null
+name: Ridge
+source_run_id: 8a9ef81269464d0880238d746c56d250
+status: 2
+status_message: null

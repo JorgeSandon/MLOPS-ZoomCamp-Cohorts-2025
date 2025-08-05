@@ -1,0 +1,14 @@
+{
+  "dataframe_split": {
+    "columns": [
+      "Price",
+      "Quantity"
+    ],
+    "data": [
+      [
+        12.99,
+        585.07
+      ]
+    ]
+  }
+}

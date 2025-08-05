@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/models/m-b24cacb6792a4a399cea0a310fbb21e2/artifacts
+creation_timestamp: 1754360399604
+experiment_id: '780299504262135347'
+last_updated_timestamp: 1754360413320
+model_id: m-b24cacb6792a4a399cea0a310fbb21e2
+model_type: null
+name: model
+source_run_id: 814797a0d429404b90cfca656155d830
+status: 2
+status_message: null

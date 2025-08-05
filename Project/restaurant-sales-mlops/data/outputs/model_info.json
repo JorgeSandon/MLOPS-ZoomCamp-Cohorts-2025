@@ -1,0 +1,9 @@
+{
+  "model_name": "LinearRegression",
+  "r2_score": 0.9338780933932324,
+  "features": [
+    "Price",
+    "Quantity"
+  ],
+  "target": "Total_Sales"
+}

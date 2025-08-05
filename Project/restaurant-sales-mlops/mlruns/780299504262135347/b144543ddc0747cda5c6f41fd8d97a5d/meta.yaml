@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/b144543ddc0747cda5c6f41fd8d97a5d/artifacts
+end_time: 1754359403487
+entry_point_name: ''
+experiment_id: '780299504262135347'
+lifecycle_stage: active
+run_id: b144543ddc0747cda5c6f41fd8d97a5d
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754359395653
+status: 3
+tags: []
+user_id: procesos

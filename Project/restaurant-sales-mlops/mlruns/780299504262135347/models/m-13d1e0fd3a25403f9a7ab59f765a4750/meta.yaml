@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/models/m-13d1e0fd3a25403f9a7ab59f765a4750/artifacts
+creation_timestamp: 1754360485703
+experiment_id: '780299504262135347'
+last_updated_timestamp: 1754360493115
+model_id: m-13d1e0fd3a25403f9a7ab59f765a4750
+model_type: null
+name: Lasso
+source_run_id: a72908ccbf044e9fb3314067e6bdc9b6
+status: 2
+status_message: null

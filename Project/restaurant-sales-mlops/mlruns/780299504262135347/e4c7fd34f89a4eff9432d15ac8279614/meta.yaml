@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Procesos/Desktop/MLOPS-ZoomCamp-Cohorts-2025/Project/restaurant-sales-mlops/mlruns/780299504262135347/e4c7fd34f89a4eff9432d15ac8279614/artifacts
+end_time: 1754361214342
+entry_point_name: ''
+experiment_id: '780299504262135347'
+lifecycle_stage: active
+run_id: e4c7fd34f89a4eff9432d15ac8279614
+run_name: Ridge
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754361206033
+status: 3
+tags: []
+user_id: procesos
